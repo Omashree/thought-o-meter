@@ -7,7 +7,7 @@ Welcome to The Thought-O-Meter, a fun and interactive web application designed t
 
 You can check out the live version of the application here:
 
-👉 [https://mern-profile-app.netlify.app](https://thought-o-meter.netlify.app/)
+👉 [https://thought-o-meter.netlify.app](https://thought-o-meter.netlify.app)
 
 ---
 
